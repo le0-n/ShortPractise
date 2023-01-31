@@ -152,7 +152,14 @@
   position: relative;
   width: 100%;
   height: 41rem;
+  overflow: hidden;
   background-color: rgb(217, 149, 54);
+  transition: all 0.3s ease;
+}
+.container .content-1 .bottom ul .item:hover {
+  z-index: 1000;
+  box-shadow: 0 0 30px 30px rgba(0, 0, 0, 0.24);
+  transform: scale(1.1);
 }
 .container .content-1 .bottom ul .item img {
   width: 100%;
