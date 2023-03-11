@@ -189,7 +189,6 @@
 }
 .container .content-1 .bottom ul .item p:nth-child(4) {
   position: relative;
-  width: -webkit-fit-content;
   width: -moz-fit-content;
   width: fit-content;
   left: 69%;
@@ -239,7 +238,6 @@
 }
 .container .content-3 .head {
   width: 100%;
-  height: -webkit-fit-content;
   height: -moz-fit-content;
   height: fit-content;
   text-align: center;
@@ -335,7 +333,6 @@
   padding: 5% 10% 10% 10%;
 }
 .container .content-3 ul ul li {
-  width: -webkit-fit-content;
   width: -moz-fit-content;
   width: fit-content;
   border-bottom: 1px solid #000;
